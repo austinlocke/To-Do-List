@@ -4,4 +4,4 @@ Click item to cross it out
 Press trash can to delete item
 Press edit icon to toggle input box
 
-![Alt text](assests/screen-shots/screenshot.png?raw=true)
+![Alt text](To-Do-List/assets/screen-shots/screenshot.png?raw=true)
